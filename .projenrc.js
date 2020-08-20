@@ -2,7 +2,7 @@ const { JsiiProject, Semver } = require('projen');
 
 const cdktf = Semver.caret('0.0.15')
 const constructs = Semver.caret('3.0.0')
-const awsProvider = Semver.caret('0.0.15')
+const awsProvider = Semver.caret('0.0.16')
 const nullProvider = Semver.caret('0.0.3')
 const hashdirectory = Semver.caret('0.1.0')
 const project = new JsiiProject({

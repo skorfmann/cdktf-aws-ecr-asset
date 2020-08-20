@@ -32,7 +32,7 @@
   "devDependencies": {
     "cdktf": "^0.0.15",
     "constructs": "^3.0.0",
-    "@cdktf/provider-aws": "^0.0.15",
+    "@cdktf/provider-aws": "^0.0.16",
     "@cdktf/provider-null": "^0.0.3",
     "projen": "^0.3.37",
     "standard-version": "^8.0.1",
@@ -57,7 +57,7 @@
   "peerDependencies": {
     "cdktf": "^0.0.15",
     "constructs": "^3.0.0",
-    "@cdktf/provider-aws": "^0.0.15",
+    "@cdktf/provider-aws": "^0.0.16",
     "@cdktf/provider-null": "^0.0.3"
   },
   "dependencies": {
